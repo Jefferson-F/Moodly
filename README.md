@@ -73,10 +73,6 @@ Trabalhar com dados em **JSON** para cadastro de usuários foi uma ótima maneir
 
 - **Banco de Dados**: O próximo passo será integrar um banco de dados PostgreSQL para persistência dos dados.
 
-### Link para o Repositório:
-
-[GitHub - Moody](<link-do-repositorio>)
-
 ---
 
 ## Contato
