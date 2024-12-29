@@ -16,7 +16,7 @@
    Se ainda não tiver o repositório em sua máquina, clone-o utilizando o Git:
 
    ```bash
-   git clone <link-do-repositorio>
+   git clone https://github.com/Jefferson-F/Moodly
    ```
 
 2. **Instalar as dependências**
